@@ -2,7 +2,7 @@
 
 A low-cost, four-legged robot that recognises its owner and follows them, with all AI running on the robot itself. Built as an assistive companion for elderly people at home, where reliability, low latency and privacy matter more than raw power.
 
-
+The robot body is reproduced from the open-source [NovaSM3](https://novaspotmicro.com/) design by Chris Locke (see [Credits](#credits)). Our work is the edge-AI perception, owner following, ROS 2 integration and performance profiling built on top of it.
 > **Report & Demo:** (https://drive.google.com/drive/folders/1kGzklXmjUZNO9u13_W2ifjQxaZidoWdP?usp=sharing)
 
 ---
@@ -97,13 +97,22 @@ Python, C++ (Arduino), ROS 2, TensorRT, YOLOv8, ByteTrack, ArcFace, OpenCV, NumP
 
 ## Team
 
-| Name | Contribution |
-| --- | --- |
+| Name |
+| --- |
 | Sachin Bhat | 
 | Priyanka Bhatt | 
-| Tanmayee K M | |
+| Tanmayee K M | 
 
 Built at the School of Computational and Data Sciences, Vidyashilp University, Bengaluru.
+
+## Credits
+
+The mechanical design of this robot is not our own. We 3D-printed and assembled it from existing open-source work:
+
+NovaSM3 by Chris Locke (novaspotmicro.com, GitHub): the STL files and build design we reproduced.
+Spot Micro by Deok-yeon Kim (Thingiverse): the original 3D design that NovaSM3 is based on.
+
+Both are inspired by Boston Dynamics' Spot. Thank you to these creators for sharing their work openly.
 
 ## References
 
