@@ -2,8 +2,8 @@
 
 A low-cost, four-legged robot that recognises its owner and follows them, with all AI running on the robot itself. Built as an assistive companion for elderly people at home, where reliability, low latency and privacy matter more than raw power.
 
-> **Demo:** [add video or GIF link here]
-> **Report:** [add link to the full IEEE-format report]
+
+> **Report & Demo:** (https://drive.google.com/drive/folders/1kGzklXmjUZNO9u13_W2ifjQxaZidoWdP?usp=sharing)
 
 ---
 
