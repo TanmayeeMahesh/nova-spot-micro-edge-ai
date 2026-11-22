@@ -93,25 +93,15 @@ Measured on the Jetson Orin Nano using `jtop` and `psutil`.
 
 Python, C++ (Arduino), ROS 2, TensorRT, YOLOv8, ByteTrack, ArcFace, OpenCV, NumPy, Node.js, Socket.io, NVIDIA Jetson Orin Nano, Arduino Mega 2560, PCA9685
 
-## Repository structure
 
-```
-[update to match your actual folders]
-├── perception/        # YOLOv8n, ByteTrack, ArcFace pipeline
-├── ros2_nodes/        # perception, decision, serial bridge nodes
-├── arduino/           # gait generation and servo control
-├── dashboard/         # Node.js + Socket.io web dashboard
-├── profiling/         # latency, power and memory measurements
-└── report/            # project report
-```
 
 ## Team
 
 | Name | Contribution |
 | --- | --- |
-| Sachin Bhat | [contribution] |
-| Priyanka Bhatt | [contribution] |
-| Tanmayee K M | [contribution] |
+| Sachin Bhat | 
+| Priyanka Bhatt | 
+| Tanmayee K M | |
 
 Built at the School of Computational and Data Sciences, Vidyashilp University, Bengaluru.
 
