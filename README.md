@@ -4,7 +4,9 @@ A low-cost, four-legged robot that recognises its owner and follows them, with a
 
 The robot body is reproduced from the open-source [NovaSM3](https://novaspotmicro.com/) design by Chris Locke (see [Credits](#credits)). Our work is the edge-AI perception, owner following, ROS 2 integration and performance profiling built on top of it.
 > **Report & Demo:** (https://drive.google.com/drive/folders/1kGzklXmjUZNO9u13_W2ifjQxaZidoWdP?usp=sharing)
-
+<p align="center">
+  <img src="robot.png" alt="Nova Spot Micro quadruped" width="400">
+</p>
 ---
 
 ## Why we built it
